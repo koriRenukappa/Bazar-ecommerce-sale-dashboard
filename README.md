@@ -15,3 +15,7 @@ I have analyzed ecommerce sales data and created interactive dashboard using Pow
 
 ## Dataset Used
   - <a href="https://github.com/koriRenukappa/Bazar-ecommerce-sale-dashboard/blob/d34c77fef536ae6674cef60fd965c51879f68cda/Details.csv">Details</a>
+  - <a href="https://github.com/koriRenukappa/Bazar-ecommerce-sale-dashboard/blob/d34c77fef536ae6674cef60fd965c51879f68cda/Details.csv">Orders</a>
+
+## Dashbord
+  
