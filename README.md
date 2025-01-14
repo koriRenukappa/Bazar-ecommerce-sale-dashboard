@@ -1,5 +1,3 @@
-I have analyzed ecommerce sales data and created interactive dashboard using Power Bi
-
 # Bazar Ecommerce Sales Analysis ( Interactive Dashboard Creation Using Power BI )
 
 ## Project Objective
@@ -18,4 +16,7 @@ I have analyzed ecommerce sales data and created interactive dashboard using Pow
   - <a href="https://github.com/koriRenukappa/Bazar-ecommerce-sale-dashboard/blob/d34c77fef536ae6674cef60fd965c51879f68cda/Details.csv">Orders</a>
 
 ## Dashbord
+
+   ![dashboard image](https://github.com/user-attachments/assets/e4fb6fdb-7f6e-4f87-bc9b-8baa9c1b79dd)
+
   
